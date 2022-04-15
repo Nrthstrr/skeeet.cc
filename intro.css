@@ -1,0 +1,46 @@
+body {
+    background: url(background.jpg);
+    width: 90%;
+    height: 90vh;
+        font-family: 'Montserrat', sans-serif; 
+        font-size: 15px; 
+        color: rgb(255, 255, 255) 
+}
+
+.intro-skeet {
+    max-width: 500px;
+    margin-top: 20px;
+    position: relative;
+    left: 440px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.photo {
+    margin: 0;
+    position:  relative;
+    bottom: 20px;
+    left: 170px;
+}
+
+.button { 
+    display: inline-block; 
+    vertical-align: top; 
+    border: 2px solid #fff; 
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    text-align: center;
+    transition: color 0.2s linear;
+    position: relative;
+    left: 590px;
+}
+
+.button:hover {
+    color: aqua;
+}
+
+.all {
+    position: relative;
+    top: 120px;
+}

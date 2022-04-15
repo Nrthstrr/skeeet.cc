@@ -1,0 +1,162 @@
+body { 
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 15px; 
+    color: #333 
+    
+} 
+
+.zagolovok {
+    max-width: 415px;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    left: 392px;
+    bottom: -50px;
+}
+
+.skeet {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    bottom: 74px;
+    max-width: 300px;
+    margin-left:50px;
+}
+
+.buy-invite {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    bottom: 74px;
+    max-width: 300px;
+    margin-left:50px;
+    font-weight: bold;
+}
+
+.main {
+    background: url(back.png);
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+}
+
+.main { 
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+} 
+
+.nav-link { 
+    display: inline-block; 
+    vertical-align: top; 
+    margin: 0 15px; 
+    color: #000; 
+    text-decoration: none; 
+    transition: color 0.2s linear; 
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
+} 
+
+.nav-link:hover {
+    color:rgb(0, 153, 255);
+}
+
+.nav {
+    margin-left: 850px;
+    
+}
+
+.spisok {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    padding: 0;
+    margin-left: 17px;
+    color: black;
+    font-weight: bold;
+}
+
+.avatar {
+    width: 100px;
+    max-width: 100px;
+    position: relative;
+    top: 52px;
+    left: 50px;
+}
+
+.makar {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    left: -485px;
+    bottom: -80px;
+    max-width: 130px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+
+.makardescribe {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    left: -450px;
+    bottom: -80px;
+    max-width: 200px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+
+.sviaz {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    left: -300px;
+    bottom: -80px;
+    max-width: 500px;
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+}
+
+.phone {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    left: -450px;
+    bottom: -100px;
+    max-width: 200px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.phoneimg {
+    width: 10;
+    position: relative;
+    top: 78px;
+    left: 50px;
+}
+
+.mail {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    left: -407px;
+    bottom: -100px;
+    max-width: 285px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.mailimg {
+    width: 10;
+    position: relative;
+    top: 73px;
+    left: 47px;
+}

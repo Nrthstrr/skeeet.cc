@@ -1,0 +1,89 @@
+body { 
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 15px; 
+    color: #333 
+    
+} 
+
+.zagolovok {
+    max-width: 415px;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    left: 392px;
+    bottom: -50px;
+}
+
+.skeet {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    bottom: 74px;
+    max-width: 300px;
+    margin-left:50px;
+}
+
+.buy-invite {
+    margin: 0 auto;
+    text-indent: 0em;
+    position: relative;
+    bottom: 74px;
+    max-width: 300px;
+    margin-left:50px;
+    font-weight: bold;
+}
+
+.main {
+    background: url(back.png);
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+}
+
+.main { 
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+} 
+
+.nav-link { 
+    display: inline-block; 
+    vertical-align: top; 
+    margin: 0 15px; 
+    color: #000; 
+    text-decoration: none; 
+    transition: color 0.2s linear; 
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
+} 
+
+.nav-link:hover {
+    color:rgb(0, 153, 255);
+}
+
+.nav {
+    margin-left: 850px;
+    
+}
+
+.spisok {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    padding: 0;
+    margin-left: 17px;
+    color: black;
+    font-weight: bold;
+}
+
+.free {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    padding: 0;
+    margin-left: 17px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
